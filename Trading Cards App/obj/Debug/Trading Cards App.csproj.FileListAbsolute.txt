@@ -1,0 +1,10 @@
+C:\Rapid application development fall 2025\Trading Cards App\bin\Debug\Trading Cards App.exe.config
+C:\Rapid application development fall 2025\Trading Cards App\bin\Debug\Trading Cards App.exe
+C:\Rapid application development fall 2025\Trading Cards App\bin\Debug\Trading Cards App.pdb
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading Cards App.csproj.AssemblyReference.cache
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading_Cards_App.Form1.resources
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading_Cards_App.Properties.Resources.resources
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading Cards App.csproj.GenerateResource.cache
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading Cards App.csproj.CoreCompileInputs.cache
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading Cards App.exe
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading Cards App.pdb

@@ -1,0 +1,3 @@
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading Cards App.csproj.AssemblyReference.cache
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading_Cards_App.Form1.resources
+C:\Rapid application development fall 2025\Trading Cards App\obj\Debug\Trading Cards App.csproj.GenerateResource.cache
